@@ -2,6 +2,8 @@
 
 ### 
 
+<!-- ![itsme](https://github.com/pratesMatheus/pratesMatheus/assets/99659977/fabc7d22-5aaa-4919-b661-5e46d11878ea) -->
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=pratesMatheus.pratesMatheus&left_color=chartreuse&right_color=cornflowerblue&left_text=VISITORS"  />  
 </div>
@@ -9,7 +11,7 @@
 ###
 
 <div align="center">
-  <img src="./itsme.gif" alt="" width="700">
+  <img src="https://github.com/pratesMatheus/pratesMatheus/assets/99659977/fabc7d22-5aaa-4919-b661-5e46d11878ea" alt="" width="700">
   <p><i>A brazilian passionate for fullstack development</i></p>
 </div>
 
